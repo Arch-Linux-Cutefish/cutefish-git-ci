@@ -16,7 +16,7 @@ You can use these packages by adding the following to your `/etc/pacman.conf`:
 ```
 [cutefish-git]
 SigLevel = Optional TrustAll
-Server = https://github.com/proxer05/cutefish-git-ci/releases/download/cutefish-git-ci
+Server = https://github.com/Arch-Linux-Cutefish/cutefish-git-ci/releases/download/cutefish-git-ci
 ```
 
 ## Credits
