@@ -17,7 +17,7 @@ jobs:
       run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M')"
 
     - name: Build Packages
-      uses: proxer05/build-aur-packages@cutefish-a
+      uses: Arch-Linux-Cutefish/build-aur-packages@cutefish-a
       with:
         packages: >
           fishui-git
